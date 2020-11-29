@@ -1,4 +1,4 @@
-# Papers
+# Insightful Papers
 
 ## Natural Language Processing
 
