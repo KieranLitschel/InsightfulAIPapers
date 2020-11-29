@@ -23,3 +23,4 @@
 
 * Challenges in Deploying Machine Learning: a Survey of Case Studies, 2020
   * https://arxiv.org/abs/2011.09926
+  * Good paper for understanding the challenges that arise when bringing a model into production.
