@@ -18,3 +18,8 @@
   * Seems very similar to VisualBERT but without the natural language input, and instead of the input to the transformer being region proposals from an object detection network, they use linear projected image patches as input.
   * Using image patches is a bit janky, as humans don't think in 16x16 boxes, but reminds me of YOLO object detection which also describes the position of objects relative to image patches.
   * Would be interesting to apply this network to a multimodal dataset (combination of natural language and image as input), such as Hateful Memes, to see how it performs relative to VisualBERT. 
+
+## Applications
+
+* Challenges in Deploying Machine Learning: a Survey of Case Studies, 2020
+  * https://arxiv.org/abs/2011.09926
