@@ -5,3 +5,4 @@ This is a list of papers I have come across that I am planning to read.
 * The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks, 2018, https://arxiv.org/abs/1803.03635
 * Deep Double Descent: Where Bigger Models and More Data Hurt, 2019, https://arxiv.org/abs/1912.02292
 * Beyond Accuracy: Behavioral Testing of NLP models with CheckList, 2020, https://arxiv.org/abs/2005.04118
+* Revisiting Small Batch Training for Deep Neural Networks, 2018, https://arxiv.org/abs/1804.07612
