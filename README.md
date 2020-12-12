@@ -38,3 +38,6 @@
 * Challenges in Deploying Machine Learning: a Survey of Case Studies, 2020
   * https://arxiv.org/abs/2011.09926
   * Good paper for understanding the challenges that arise when bringing a model into production.
+  * A good approach is to build the pipeline around the simplest possible model, and then once the pipeline is implemented increase the complexity. 
+  * Better performance on evaluation metric often doesn't translate to improved business performance.
+  * Models are becoming huge e.g. transformers, but most companies don't have the resources to train and tune these huge models.
