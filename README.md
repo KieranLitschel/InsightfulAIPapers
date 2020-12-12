@@ -10,6 +10,7 @@
   * Recurrent connections (e.g. RNNs) are slow to train. Self-attention based methods (e.g. transformers) are faster but attention weight matrices are huge for long sequences. SWEMs have no recurrent connections and do not use self-attention, so are relatively inexpensive.
   * Particularly effective for long documents.
   * Components of the learnt word embeddings are interpretable (see section 4.1.1).
+  * Would be useful to build a Python package that allows people to easily build and interpret SWEMs, along with explaining the merits of them over self-attention and RNNs.
 
 ## Computer Vision
 
