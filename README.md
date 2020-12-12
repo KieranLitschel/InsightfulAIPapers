@@ -11,6 +11,12 @@
   * Particularly effective for long documents.
   * Components of the learnt word embeddings are interpretable (see section 4.1.1).
   * Would be useful to build a Python package that allows people to easily build and interpret SWEMs, along with explaining the merits of them over self-attention and RNNs.
+* A Survey of Reinforcement Learning Informed by Natural Language, 2019
+  * https://arxiv.org/abs/1906.03926
+  * Survey of how NLP and RL have been combined.
+  * Language-coniditonal RL - Tasks where the agent is unable to complete the task without the literature e.g. where the agent is instructed what to do in natural language
+  * Language-assisted RL - Tasks where the agent can complete the task without the literature, but the literature assists learning e.g. describing dynamic environments
+  * Most of the work has been on structured language (e.g. language is constructed from templates), which works well for games, but in the real world language is mostly unstructured, so more research is needed in this area
 
 ## Computer Vision
 
